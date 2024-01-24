@@ -1,0 +1,4 @@
+<알고리즘, SQL 문제 풀이>
+
+[골드 5] https://org9899.tistory.com/187 ([Java] 1759번 : 암호 만들기)
+[Lv.1] https://org9899.tistory.com/188 (평균 일일 대여 요금 구하기 (SELECT))
